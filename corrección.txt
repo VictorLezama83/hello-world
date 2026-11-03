@@ -1,0 +1,21 @@
+CORRECCIÓN — PRÁCTICA 0-A: HELLO WORLD
+
+Resultado: Todo OK 😀
+
+Has completado correctamente el flujo: crear la rama
+editar-readme, modificar el README y fusionar los cambios
+en main mediante una pull request.
+
+La presentación y el objetivo del repositorio están claros.
+Muy bien también el título y la descripción de la PR:
+explican qué has cambiado y para qué.
+
+Como pequeña mejora, aplica esa misma claridad al mensaje
+del commit: en lugar de "Update README.md", podrías usar
+"Añadir presentación personal y objetivo del repositorio".
+No necesitas cambiarlo ahora; tenlo en cuenta para
+las siguientes prácticas.
+
+Puedes fusionar esta PR para incorporar la devolución.
+La práctica queda revisada y puedes borrar el repositorio
+cuando quieras. ¡Buen trabajo!
